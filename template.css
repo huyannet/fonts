@@ -119,7 +119,7 @@ a:hover, a:focus{color:#d49f0b;text-decoration:none; outline:none;}
 
 
 .top-head{position:relative; top:0px; width:100%; height:85px; z-index:50;-webkit-transition:all .25s ease-in-out;-moz-transition:all .25s ease-in-out;-ms-transition:all .25s ease-in-out;-o-transition:all .25s ease-in-out;transition:all .25s ease-in-out;}
-.top-head .logo{background:url(https://lh3.ggpht.com/-Vkq8ub66nfQ/WqEf8eKjv_I/AAAAAAADDcs/8xHNr6YxPDATBO49T0SuCcx8aLpV-lkhQCEwYBhgL/s0/opalgarden_logo.png) no-repeat left center; display:block; width:133px; height:85px; background-size:133px;}
+.top-head .logo{background:url(https://lh3.ggpht.com/-F_q2z22ot94/WqC_qYIn8aI/AAAAAAADDUI/TQiJQ3M-APMMygiqte8AK2YgaP4OG0M3ACEwYBhgL/w360-h140-n/GEM-Riverside-Logo.png) no-repeat left center; display:block; width:133px; height:85px; background-size:133px;}
 .top-head.sticky{position:fixed; background:#fff; height:60px; -webkit-transition:all .25s ease-in-out;-moz-transition:all .25s ease-in-out;-ms-transition:all .25s ease-in-out;-o-transition:all .25s ease-in-out;transition:all .25s ease-in-out; -webkit-box-shadow: 0px 1px 10px 0px rgba(0,0,0,0.2); -moz-box-shadow: 0px 1px 10px 0px rgba(0,0,0,0.2); box-shadow: 0px 1px 10px 0px rgba(0,0,0,0.2);}
 .top-head.sticky .logo{background-size:95px; width:95px; height:60px;}
 .top-head.sticky .top-links{display:none;}
@@ -286,7 +286,7 @@ a:hover, a:focus{color:#d49f0b;text-decoration:none; outline:none;}
 .footer-info .footer-info5{background:url(https://lh3.ggpht.com/-oq5YxOx52NI/WqEgCIkKpsI/AAAAAAADDdo/BEF4yzDVZicmTXDEkoPq7lLyXwDjkjc2wCEwYBhgL/s0/ico-footer5.png) no-repeat left top 5px; padding:0 0 10px 50px; font-style:italic; color:#488a3f;}
 
 .footer-coppyright{position:relative; display:inline-block; border-top:3px solid #82bc41; width:100%; color:#484848; padding:20px 0px;}
-.footer-coppyright .logo{background:url(https://lh3.ggpht.com/-Vkq8ub66nfQ/WqEf8eKjv_I/AAAAAAADDcs/8xHNr6YxPDATBO49T0SuCcx8aLpV-lkhQCEwYBhgL/s0/opalgarden_logo.png) no-repeat left center; display:block; width:125px; height:65px; background-size:125px;}
+.footer-coppyright .logo{background:url(https://lh3.ggpht.com/-F_q2z22ot94/WqC_qYIn8aI/AAAAAAADDUI/TQiJQ3M-APMMygiqte8AK2YgaP4OG0M3ACEwYBhgL/w360-h140-n/GEM-Riverside-Logo.png)) no-repeat left center; display:block; width:125px; height:65px; background-size:125px;}
 .footer-coppyright .last .info{text-align:right;}
 .ls-social{position:relative; float:right; margin-bottom:20px;}
 .ls-social li{float:left;}
@@ -2030,4 +2030,3 @@ h1.post-title{color:#3dad65;font-weight:700;font-size:24px;margin:0px 0px 15px;t
     .album-filter-list ul li a{min-width:inherit;}
 }
 @-ms-viewport{width:device-width;}
-
