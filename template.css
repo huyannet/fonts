@@ -89,9 +89,11 @@ a:hover, a:focus{color:#d49f0b;text-decoration:none; outline:none;}
 .bt-control:hover{color:#e9db7a;}
 .bt-control:after{content:''; position:relative; width:25px; height:25px; margin-left:25px; top:6px; display:inline-block; background:url(https://lh3.ggpht.com/-UKB4mnfEWq0/WqEf8eGphYI/AAAAAAADDcs/L5fA5fxsgyYyjfo-Cz6ko9jwvRN_feHkgCEwYBhgL/s0/bt-control.png) no-repeat center center;-webkit-transition:all .25s ease-in-out;-moz-transition:all .25s ease-in-out;-ms-transition:all .25s ease-in-out;-o-transition:all .25s ease-in-out;transition:all .25s ease-in-out;}
 .bt-control:hover:after{background-image:url(https://lh3.ggpht.com/-RcVVvLfyTLQ/WqEf8eJ-qlI/AAAAAAADDcs/E_0zcg41oXoUc6AUxAwFK0oqnQEjZi9hACEwYBhgL/s0/bt-control-h.png);}
+/*
 *,
 *:before,
 *:after{-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;}
+*/
 .socicon{font-family:'socicon' !important;}
 .fluid-left{margin-left:-15px;}
 .fluid-right{margin-right:-15px;}
