@@ -1491,7 +1491,7 @@ h1.post-title{color:#3dad65;font-weight:700;font-size:24px;margin:0px 0px 15px;t
 @media screen and (max-width:992px) {
 .header-sm{z-index:51;position:relative; min-height:60px;}
 .header-sm .logo-mobile{position:relative;z-index:9999;}
-.header-sm a.logo-xs{display:block; width:95px; height:60px; top:0; background:url(https://lh3.ggpht.com/-Vkq8ub66nfQ/WqEf8eKjv_I/AAAAAAADDcs/8xHNr6YxPDATBO49T0SuCcx8aLpV-lkhQCEwYBhgL/s0/opalgarden_logo.png) no-repeat center center;background-size:95px;position:absolute; left:0;}
+.header-sm a.logo-xs{display:block; width:95px; height:60px; top:0; background:url(https://lh3.ggpht.com/-F_q2z22ot94/WqC_qYIn8aI/AAAAAAADDUI/TQiJQ3M-APMMygiqte8AK2YgaP4OG0M3ACEwYBhgL/w360-h140-n/GEM-Riverside-Logo.png) no-repeat center center;background-size:95px;position:absolute; left:0;}
 
 .hotline-sticky{position:fixed; top:20px; right:calc((100% - 720px)/2 + 60px); z-index:52;}
 .hotline-sticky.sticky{position:fixed; top:20px;}
