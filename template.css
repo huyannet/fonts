@@ -420,9 +420,7 @@ iframe[name=google_conversion_frame]{display:none;}
 #section4 {background: url(https://rawgit.com/bigrvn/gem/master/bg-page-info-2.png) no-repeat top 60px left; background-size: 80px;}
 #section6 {background: url(https://rawgit.com/bigrvn/gem/master/bg-page-info-3.png) no-repeat top 60px left; background-size: 100px;}
 #section6:after{content:''; position:absolute; width:100%; height:260px; bottom:0; left:0; background: url(https://lh3.ggpht.com/-eekIKrXacBw/WqEf8U8LxeI/AAAAAAADDcs/nHRssXWaxAYiUlVdJOtVg9bCesByRRdUQCEwYBhgL/s0/city_green.png) no-repeat bottom center; background-size:100%; z-index:-1; }
-.bg-home-overview{background-image:url(https://lh3.googleusercontent.com/-3hAj3hm5lac/WqD-MlSi7iI/AAAAAAADDZs/Gw5j1StBIOoPcbWp4S8Z-v8M2PDy89oXwCEwYBhgL/w1920-h1040-n/gioi-thieu.jpg);}
-.bg-home-location{background-image:url(https://rawgit.com/bigrvn/gem/master/uploads/myfiles/images/home/vi-tri.jpg);}
-.bg-home-modelhouse{background-image:url(https://rawgit.com/bigrvn/gem/master/uploads/myfiles/images/home/tong-quan-du-an.jpg);}
+.bg-home-overview{background-image:url(https://lh3.ggpht.com/-Svf_QCqiQx4/WqZAuFC7AxI/AAAAAAADDmg/e9YFXugHVkYPl8Rd8bz4TB-E8glYihJLwCEwYBhgL/w1920-h1040-p-fenhance=1/c%25C3%25B4ng-vi%25C3%25AAn-n%25E1%25BB%2599i-khu-Gem-Riverside-v%25E1%25BB%2581-%25C4%2591%25C3%25AAm.jpg);}
 .bg-home-utilities{background-image:url(https://lh3.ggpht.com/-MWgxenYmKpo/WqLKfPt42HI/AAAAAAADDhM/GrH1IkXECpQOAFON7xEkKOd7uYV9QUnaACEwYBhgL/s800/tien-ich-noi-khu.png);}
 .bg-area{background-image:url(https://lh3.ggpht.com/-Xm7xWgia2AY/WqLP2W6zdQI/AAAAAAADDiA/RxqzmTuCEXk8cgZl_mIbVy223Bu0tKX2gCEwYBhgL/s800/tien-ich-ngoai-khu.png);}
 .bg-home-value{background-image:url(https://lh3.googleusercontent.com/-mpPYes0obls/WqJS9ICkAyI/AAAAAAADDfU/PhgibhUjjsc_ocZx_LekbeXc-9-sKA5ygCEwYBhgL/s0/ly-do.png); background-repeat:no-repeat; background-position:bottom -30px left !important; background-size:550px !important;}
